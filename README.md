@@ -41,5 +41,7 @@ This repository contains the documentation and implementation files for Week 2 o
 
 ## 🔍 Verification Commands 
 `show vlan brief` – Validated access port membership and active status.
+
 `show interfaces trunk` – Verified encapsulation protocol state and allowed trunks.
+
 `ping <destination_ip>` – End-to-end multi-platform confirmation of broadcast loop isolation.
