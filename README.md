@@ -17,7 +17,7 @@ This repository contains the documentation and implementation files for Week 2 o
 
 ## 📂 Repository Contents
 - `Report.pdf` – Full technical report covering calculations, topology configurations, and verification steps.
-- `Cisco Packet Tracer/` – Simulation project files featuring the dual-switch VLAN network topology. 
+- `Cisco Packet Tracer.pkt` – Simulation project files featuring the dual-switch VLAN network topology. 
 - `GNS3 Project/` – Emulation project environment validating configuration parity.
 - `Screenshots/` - Screenshots of both topologies, verification of VLAN's and ping test results
 
@@ -37,6 +37,7 @@ This repository contains the documentation and implementation files for Week 2 o
 
 ## 🛠️ Simulation Platforms Used 
 **Cisco Packet Tracer** (CLI Command Configuration).
+
 **GNS3** (UI-driven programmatic state configuration map).
 
 ## 🔍 Verification Commands 
