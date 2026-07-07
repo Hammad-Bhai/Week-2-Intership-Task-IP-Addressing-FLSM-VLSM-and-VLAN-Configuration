@@ -33,6 +33,7 @@ This repository contains the documentation and implementation files for Week 2 o
 
 ### 3. VLAN Infrastructure & Trunking Configuration
 **VLAN Assignments:** VLAN 10 (STAFF), VLAN 20 (SALES), and VLAN 30 (HR).
+
 **802.1Q Trunking:** Aggregated backbone link enabling intra-VLAN transport across multiple hardware nodes.
 
 ## 🛠️ Simulation Platforms Used 
