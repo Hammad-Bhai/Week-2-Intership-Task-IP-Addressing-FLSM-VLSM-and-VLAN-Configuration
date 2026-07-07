@@ -1,0 +1,2 @@
+# Week-2-Intership-Task-IP-Addressing-FLSM-VLSM-and-VLAN-Configuration
+This repository covers Week 2 of the Network Administration internship, focusing on IPv4 optimization and Layer 2 segmentation. It includes FLSM and VLSM calculations to maximize address space efficiency, alongside Cisco Packet Tracer and GNS3 topologies implementing VLAN 10 (STAFF), 20 (SALES), and 30 (HR) via 802.1Q trunk links.
